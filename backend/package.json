@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "natural": "^0.6.2",
+    "tesseract.js": "^1.0.10"
   }
 }
