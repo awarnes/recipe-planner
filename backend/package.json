@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "natural": "^0.6.2",
+    "puppeteer": "^1.10.0",
+    "tesseract.js": "^1.0.10"
   }
 }
